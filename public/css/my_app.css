@@ -1,0 +1,27 @@
+/*
+Custome styles
+*/
+#notification-container {
+    position: fixed;
+    right: 2rem;
+    bottom: 2rem;
+}
+
+div.section {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+div.actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+div.actions i {
+    font-size: 16px;
+}
+
+.action i{
+    line-height: inherit;
+}
