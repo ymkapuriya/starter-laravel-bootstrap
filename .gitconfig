@@ -1,0 +1,6 @@
+[user]
+    name = 'Yogesh Kapuriya'
+    email = ymkapuriya@gmail.com
+    signingkey = 4AEE18F83AFDEB23
+[commit]
+    gpgsign = true

@@ -4,7 +4,7 @@
 Laravel is a massively popular web application framework with expressive, elegant syntax. Laravel takes the pain out of development by easing common tasks used in many web projects, Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## About Package
-This package built in **[Laravel 7](https://laravel.com/)** could be considered as a starter package to start with any application to be build in Laravel using MVC architecture. It includes mainly following features:
+This package built in **[Laravel 7](https://laravel.com/)** could be considered as a starter package to start with any application to be built in Laravel using MVC architecture. Mainly it includes following features:
 
 - Authentication 
 - Routing with auth middleware
