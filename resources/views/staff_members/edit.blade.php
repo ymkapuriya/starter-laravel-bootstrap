@@ -35,7 +35,7 @@
                             {{ Form::myEmail('email') }}
                         </div>
                         <div class="col-md-4">
-                            {{ Form::myMobile('phone') }}
+                            {{ Form::myMobile('phone', $staff->phone) }}
                         </div>
                     </div>
                     <div class="row">
